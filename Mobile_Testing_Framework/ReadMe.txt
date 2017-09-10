@@ -1,1 +1,1 @@
-This Folder will Contain Drop in framework made with selenium.
+This Folder will Contain Drop in framework made with Appium and if possible Addition of xcode(for Apple devices).

@@ -1,1 +1,1 @@
-This Folder will Contain Drop in framework made with selenium.
+This Folder will Contain Drop in framework to do performance testing with Jmeter or LoadRunner.

@@ -1,1 +1,2 @@
-This Folder will Contain Drop in framework made with selenium.
+This Folder will contain materials and dumps for Security testing
+and projects to be implemented. 
