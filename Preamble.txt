@@ -1,0 +1,14 @@
+Welcome to Long Term QA research 
+
+This Repository Will hold, data, codes and any research done in any language over a long period of time. 
+Will be available a redy to use framework for:
+1. Functional Web Automation testing, Including API and database testing. 
+2. Mobile Testing (As of now only Android).
+3. Visual Regressing Testing.(That is in short Nakal ++ of Nakal)
+4. Security Testing Package. 
+
+Prposed Time line is: 
+1. Functional Web Testing: Nov 2017 
+2. Mobile Testing: January 2018
+3. Visual Regressing: Will run parallely No time line. 
+4. Security Testing: When All 4 above are done. 
